@@ -1,0 +1,84 @@
+/* posts.css */
+
+/* Blog Container */
+.blog-container {
+    background-color: #f8e7e9;
+    padding: 20px;
+  }
+  
+  /* Blog Title */
+  .blog-container h1 {
+    color: #ff69b4;
+    text-align: center;
+    font-size: 24px;
+  }
+  
+  /* Post Container */
+  .post-container {
+    background-color: #ffe6f0;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 2px solid #ff69b4;
+  }
+  
+  /* Post Title */
+  .post-container h2 {
+    color: #ff69b4;
+    font-size: 18px;
+  }
+  
+  /* Post Image */
+  .post-container img {
+    max-width: 300px;
+    display: block;
+    margin: 10px auto;
+  }
+  
+  /* Post Date */
+  .post-container p {
+    color: #ff69b4;
+  }
+  
+  /* Button Styles */
+  .button-primary {
+    background-color: #ff69b4;
+    color: #fff;
+    border-color: #ff69b4;
+  }
+  
+  .button-primary:hover {
+    background-color: #ff4d99;
+    border-color: #ff4d99;
+  }
+  
+  .button-danger {
+    background-color: #ff4d4d;
+    color: #fff;
+    border-color: #ff4d4d;
+  }
+  
+  .button-danger:hover {
+    background-color: #ff3333;
+    border-color: #ff3333;
+  }
+  
+  .button-update {
+    background-color: #ff8c00;
+    color: #fff;
+    border-color: #ff8c00;
+  }
+  
+  .button-update:hover {
+    background-color: #ff751a;
+    border-color: #ff751a;
+  }
+  
+  /* Disable Button */
+  .button-disabled {
+    background-color: #ff9fc2;
+    border-color: #ff9fc2;
+    cursor: not-allowed;
+  }
+  
+ 
+  

@@ -1,0 +1,29 @@
+.navbar {
+    background-color: #fce4ec;
+    border-bottom: 2px solid #e91e63;
+  }
+  
+  .navbar-brand {
+    color: #e91e63;
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    color: #e91e63;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #fbf4f6;
+  }
+  
+  .navbar-toggler {
+    border-color: #e91e63;
+  }
+  
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #c2185b;
+  }
